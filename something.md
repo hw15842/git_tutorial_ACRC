@@ -5,5 +5,5 @@ Practice
 
 adding some more lines
 
-to practive Git
+to practice Git
 
